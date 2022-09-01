@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zagaz&label=Profile%20views&color=0e75b6&style=flat" alt="zagaz" /> </p>
 
-- 🧑‍💼 I’m currently working on **Aldudo.co**
+- 🧑‍💼 I’m currently working at **Aldudo.co**
 
 - 📫 Best way to reach me:  **linkedin.com/in/andre-ranulfo/**
 
@@ -24,6 +24,8 @@
 <li>🎮 Video Games;</li>
 <li>🦸&zwj;♂️ Comics, series and cartoons;</li>
 <li>🤿 Diving;</li>
+<li>🚴‍♂️</li>
+<li>🏖️ Beach;</li>
 <li>🏕️ Camping;</li>
 <li>📚 Reading;</li>
 <li>🎥 Movies;</li>
