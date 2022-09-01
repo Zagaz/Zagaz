@@ -5,7 +5,7 @@
 <hr>
 
 - 🧑‍💼 I’m currently working at **Aldudo.co**
-- 🏠 I'm from Brazil 🇧🇷 and I live in Rio de Janeiro.
+- 🏠 I'm Brazilian and I live in Rio de Janeiro.
 
 - 📫 Best way to reach me:  <a href="https://linkedin.com/in/andre-ranulfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-ranulfo" height="30" width="40" />LinkedIn/Andre-Ranulfo</a>
 <hr>
