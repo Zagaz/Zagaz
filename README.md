@@ -26,7 +26,7 @@
 <li>🎮 Video Games;</li>
 <li>🦸&zwj;♂️ Comics, series and cartoons;</li>
 <li>🤿 Diving;</li>
-<li>🚴‍♂️</li>
+<li>🚴‍ Biking</li>
 <li>🏖️ Beach;</li>
 <li>🏕️ Camping;</li>
 <li>📚 Reading;</li>
