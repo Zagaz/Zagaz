@@ -5,7 +5,7 @@
 
 - 🧑‍💼 I’m currently working at **Aldudo.co**
 
-- 📫 Best way to reach me:  **linkedin.com/in/andre-ranulfo/**
+- 📫 Best way to reach me:  <a href="https://linkedin.com/in/andre-ranulfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-ranulfo" height="30" width="40" />LinkedIn/Andre-Ranulfo</a>
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
