@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aldudo.co**
 
-- 📫 How to reach me **linkedin.com/in/andre-ranulfo/**
+- 📫 How to reach me  **linkedin.com/in/andre-ranulfo/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
