@@ -60,6 +60,7 @@
 <li><span>🗺 Travel;</span></li>
 <li><span>🧙&zwj;♂️ Role Playing Games;</span></li>
 <li>🎮 Video Games;</li>
+<li>🤘 Rock concerts;</li>
 <li>🦸&zwj;♂️ Comics, series and cartoons;</li>
 <li>🤿 Diving;</li>
 <li>🚴‍ Biking;</li>
