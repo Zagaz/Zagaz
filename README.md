@@ -1,10 +1,19 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zagaz&label=Profile%20views&color=0e75b6&style=flat" alt="zagaz" /> </p>
+<hr>
+
 [![](https://i.ibb.co/CMDskC7/1655146104820.jpg)](https://i.ibb.co/CMDskC7/1655146104820.jpg)
 
 <h1 align="center">Hi 👋, I'm André Ranulfo</h1>
 <h3 align="center">A proud nerd who loves technology.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zagaz&label=Profile%20views&color=0e75b6&style=flat" alt="zagaz" /> </p>
-<hr>
+
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaz&hide=contribs,prs)
+ 
+
+
+
+
+
 
 
 - 🔭 I’m currently working at <a  href="https://www.rockstarcoders.com/" target="_blank"><strong>Rockstar Coders</strong></a> / <a  href="https://goodfolk.agency/" target="_blank"><strong>GoodFolk Agency</strong></a>
