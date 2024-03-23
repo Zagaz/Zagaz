@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working at <a  href="https://www.rockstarcoders.com/" target="_blank"><strong>Rockstar Coders</strong></a> / <a  href="https://goodfolk.agency/" target="_blank"><strong>GoodFolk Agency</strong></a>
 - 🏠 I'm Brazilian and I live in Rio de Janeiro.
-- 📫 Best way to reach me:  <a href="https://linkedin.com/in/andre-ranulfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-ranulfo" height="30" width="40" />LinkedIn/Andre-Ranulfo</a>
 <hr>
 <h3 align="left">📬 Connect with me:</h3>
 <a href="https://linkedin.com/in/andre-ranulfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-ranulfo" height="30" width="40" />Message me on LinkedIn</a>
