@@ -67,23 +67,23 @@
 
 <h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="100" />Repositories </h2>
 
-###[Team Members - WP Gutemberg Block](https://github.com/Zagaz/team-members-block "Team Members - WP Gutemberg Block")
-Block made with React.js
+###[Team Members - WP Gutemberg Block](https://github.com/Zagaz/team-members-block "Team Members - WP Gutemberg Block") <br>
+Block made with React.js <br>
 <img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/>
 
 ------------
-###[Insert related posts links for WordPress](https://github.com/Zagaz/wp-insert-related-categories-links "wp-insert-related-categories-links")
-Plugin made with PHP
-<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/>
+[Insert related posts links for WordPress](https://github.com/Zagaz/wp-insert-related-categories-links "wp-insert-related-categories-links") <br>
+Plugin made with PHP<br>
+<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/><br>
 
 ------------
-###[Alert Messages for WordPress posts](https://github.com/Zagaz/WP-Alert-Message-for-posts-plugin "WP-Alert-Message-for-posts-plugin")
-Plugin made with PHP
-<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/>
+[Alert Messages for WordPress posts](https://github.com/Zagaz/WP-Alert-Message-for-posts-plugin "WP-Alert-Message-for-posts-plugin")<br>
+Plugin made with PHP<br>
+<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/><br>
 
 ------------
-[An WordPress Gutemberg Block](https://github.com/Zagaz/wp-my-block- "An WordPress Gutemberg Block")
-<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/>
+[An WordPress Gutemberg Block](https://github.com/Zagaz/wp-my-block- "An WordPress Gutemberg Block")<br>
+<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/><br>
 
 
 
