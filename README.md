@@ -10,12 +10,6 @@
 ![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaz&hide=contribs,prs)
  
 
-
-
-
-
-
-
 - 🔭 I’m currently working at <a  href="https://www.rockstarcoders.com/" target="_blank"><strong>Rockstar Coders</strong></a> / <a  href="https://goodfolk.agency/" target="_blank"><strong>GoodFolk Agency</strong></a>
 - 🏠 I'm Brazilian and I live in Rio de Janeiro.
 - 📫 Best way to reach me:  <a href="https://linkedin.com/in/andre-ranulfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-ranulfo" height="30" width="40" />LinkedIn/Andre-Ranulfo</a>
@@ -48,26 +42,26 @@
     
 ## Other tools
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/autocad-lt-icon-128px-hd-new.png" alt="AutoCAD" width="40" height="40"/> </a>
-
-
-<p align="left">
-      
-  
-
-  
-  
-  
-  
-
-  
-
-
-
-  
-  
-  </p>
 <hr>
-<h3>😀 Things I love to do</h3>
+
+<h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="60" height="60" />Repositories </h2>
+
+<h4><img src = "https://i.ibb.co/R7gDs6q/630504-plugins-icon-sign-ilustracao-gratis-vetor.jpg" width="20" height="20" /> Plugin: WP Insert related-posts links </h4>
+
+<h4><img src = "https://i.ibb.co/R7gDs6q/630504-plugins-icon-sign-ilustracao-gratis-vetor.jpg" width="20" height="20" /> Plugin: WP Alert message for posts
+ </h4>
+ 
+ 
+
+
+
+
+
+------------
+
+
+
+### 😀 Things I love to do
 <ul>
 <li><span>🗺 Travel;</span></li>
 <li><span>🧙&zwj;♂️ Role Playing Games;</span></li>
