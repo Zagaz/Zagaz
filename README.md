@@ -65,14 +65,31 @@
  <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/autocad-lt-icon-128px-hd-new.png" alt="AutoCAD" width="40" height="40"/> </a>
 <hr>
 
-<h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="60" height="60" />Repositories </h2>
+<h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="100" />Repositories </h2>
 
-<h4><img src = "https://i.ibb.co/wWHS8BQ/wp.png" width="20" height="20" /> Plugin: WP Alert message for posts
- </h4>
 
-<h4><img src = "https://i.ibb.co/wWHS8BQ/wp.png" width="20" height="20" /> Plugin: WP Alert message for posts
- </h4>
+<a href = "https://github.com/Zagaz/team-members-block"  target="_blank">
+<h3>
+Team Members - WP Gutemberg Block
+</h3> 
+<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/>
+</a>
+
+<a href = "https://github.com/Zagaz/wp-insert-related-categories-links"  target="_blank">
+<h3>
+Insert related posts links - WP Plugin
+</h3> 
+<img src = "https://i.ibb.co/Y8YbDy5/team.jpg"  height = "200"/>
+</a>
+
+
+
+
  
+ 
+ 
+ 
+
  
 
 
@@ -81,9 +98,8 @@
 
 ------------
 
+### test
 
-
-### 😀 Things I love to do
 <ul>
 <li><span>🗺 Travel;</span></li>
 <li><span>🧙&zwj;♂️ Role Playing Games;</span></li>
