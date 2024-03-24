@@ -55,10 +55,7 @@ Block made with React.js <br>
 Plugin made with PHP<br>
 
 ------------
-[Alert Messages for WordPress posts](https://github.com/Zagaz/WP-Alert-Message-for-posts-plugin "WP-Alert-Message-for-posts-plugin")<br>
-Plugin made with PHP<br>
 
-------------
 [An WordPress Gutemberg Block](https://github.com/Zagaz/wp-my-block- "An WordPress Gutemberg Block")<br>
 Plugin made with React.js
 
