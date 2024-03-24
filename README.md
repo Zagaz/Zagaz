@@ -56,7 +56,7 @@ Plugin made with PHP<br>
 
 ------------
 
-[An WordPress Gutemberg Block](https://github.com/Zagaz/wp-my-block- "An WordPress Gutemberg Block")<br>
+[A WordPress Gutenberg Block](https://github.com/Zagaz/wp-my-block- "A WordPress Gutemberg Block")<br>
 Plugin made with React.js
 
 ------------
