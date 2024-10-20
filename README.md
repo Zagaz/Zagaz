@@ -3,8 +3,6 @@
 
 [![](https://i.ibb.co/jrhTqBT/banner-1.jpg)]
 
-https://i.ibb.co/jrhTqBT/banner-1.jpg
-
 <h1 align="center">Hi 👋, I'm André Ranulfo</h1>
 <h3 align="center">A proud nerd who loves technology.</h3>
 
