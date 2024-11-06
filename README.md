@@ -10,7 +10,7 @@
 ![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagaz&hide=contribs,prs)
  
 
-- 🔭 I’m currently working at <a  href="https://www.rockstarcoders.com/" target="_blank"><strong>Rockstar Coders</strong></a> / <a  href="https://goodfolk.agency/" target="_blank"><strong>GoodFolk Agency</strong></a>
+- 🔭 I’m currently working at <a  href="https://giantpropeller.com" target="_blank"><strong>Giant Propeller, LLC</strong></a> 
 - 🏠 I'm Brazilian and I live in Rio de Janeiro.
 <hr>
 <h3 align="left">📬 Connect with me:</h3>
