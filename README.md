@@ -47,6 +47,10 @@
 
 <h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="100" />Repositories </h2>
 
+[A fully automated WordPress Movie Blog with TMDB API and Cron Jobs](https://github.com/Zagaz/wp-movies "Full dynamic movie website with all data  TMDB API")<br>
+Fully dynamic WordPress movie website powered by live data from the TMDB API, with cron jobs set up to automatically fetch and update content, ensuring a constant stream of the latest movie information.
+
+------------
 [Gutenberg Custom Block Hero with ACF pro](https://github.com/Zagaz/Gutenberg-Custom-Block-Hero-with-ACF-pro "Gutenberg-Custom-Block-Hero-with-ACF-pro") <br>
 This project provides a custom WordPress block for creating a dynamic hero section using Advanced Custom Fields (ACF) Pro. The block offers flexible background options and more.<br>
 
