@@ -47,8 +47,8 @@
 
 <h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="100" />Repositories </h2>
 
-[Gutenberg-Custom-Block-Hero-with-ACF-pro](https://github.com/Zagaz/Gutenberg-Custom-Block-Hero-with-ACF-pro "Gutenberg-Custom-Block-Hero-with-ACF-pro") <br>
-Block made with React.js <br>
+[Gutenberg Custom Block Hero with ACF pro](https://github.com/Zagaz/Gutenberg-Custom-Block-Hero-with-ACF-pro "Gutenberg-Custom-Block-Hero-with-ACF-pro") <br>
+This project provides a custom WordPress block for creating a dynamic hero section using Advanced Custom Fields (ACF) Pro. The block offers flexible background options and more.<br>
 
 ------------
 [Team Members - WP Gutemberg Block](https://github.com/Zagaz/team-members-block "Team Members - WP Gutemberg Block") <br>
