@@ -45,7 +45,7 @@
  <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://www.imaginit.com/Portals/4/ImageCache/ProductDetails/autocad-lt-icon-128px-hd-new.png" alt="AutoCAD" width="40" height="40"/> </a>
 <hr>
 
-<h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="100" />Repositories </h2>
+<h2><img src = "https://i.ibb.co/g9ZS0xW/download.png" width="100" />Portfolio </h2>
 
 [A fully automated WordPress Movie Blog with TMDB API and Cron Jobs](https://github.com/Zagaz/wp-movies "Full dynamic movie website with all data  TMDB API")<br>
 Fully dynamic WordPress movie website powered by live data from the TMDB API, with cron jobs set up to automatically fetch and update content, ensuring a constant stream of the latest movie information.
