@@ -50,6 +50,12 @@
 [A fully automated WordPress Movie Blog with TMDB API and Cron Jobs](https://github.com/Zagaz/wp-movies "Full dynamic movie website with all data  TMDB API")<br>
 Fully dynamic WordPress movie website powered by live data from the TMDB API, with cron jobs set up to automatically fetch and update content, ensuring a constant stream of the latest movie information.
 
+
+------------
+[Gutenberg Custom Block Listing with ACF Pro and AJAX](https://github.com/Zagaz/Gutenberg-Custom-Block-Listing-with-ACF-pro "Gutenberg Custom Block Listing with ACF Pro and AJAX")<br>
+This plugin adds a powerful, flexible listing block to the WordPress block editor, allowing you to display custom post types (such as Events) in a modern, filterable, and paginated grid. Built with Advanced Custom Fields (ACF) Pro, it enables you to easily manage and display custom fields, taxonomies, and post data in both the backend and frontend.
+
+
 ------------
 [Gutenberg Custom Block Hero with ACF pro](https://github.com/Zagaz/Gutenberg-Custom-Block-Hero-with-ACF-pro "Gutenberg-Custom-Block-Hero-with-ACF-pro") <br>
 This project provides a custom WordPress block for creating a dynamic hero section using Advanced Custom Fields (ACF) Pro. The block offers flexible background options and more.<br>
